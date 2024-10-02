@@ -1,6 +1,6 @@
 # Electronics Shop Problem
 # Source: HackerRank - https://www.hackerrank.com/challenges/electronics-shop/problem
-# Solution uses two loops to find the maximum money spent.
+# Solution uses nested for loops to find the maximum money spent.
 
 import unittest
 def getMoneySpent(keyboards, drives, b):
