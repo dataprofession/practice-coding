@@ -1,7 +1,7 @@
 # Minimum Loss Problem
 # Source: HackerRank - https://www.hackerrank.com/challenges/minimum-loss/problem
 # Solution:
-# The minimumLoss function sorts prices with their original indices and checks pairs to find the minimum loss \
+# The minLoss function sorts prices with their original indices and checks pairs to find the minimum loss \
 # by ensuring that the selling index is greater than the buying index. 
 # It focuses on comparing prices from the sorted list while keeping track of their original positions.
 
